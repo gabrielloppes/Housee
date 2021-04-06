@@ -13,14 +13,17 @@
 4 - [How to run the test suite](#point_right-how-to-run-the-test-suite)<br>
 5 - [Author](#point_right-author)
 
-## :point_left: **Project Description**
+## :point_right: **Project Description**
 This project was inspired in my team's final project for [Le Wagon Coding Bootcamp](https://www.lewagon.com) called [Unaconsulta](https://github.com/mamuh/unaconsulta) a service where tenants can leave reviews on properties or rooms they've lived in. The main idea for Housee is to implement the same idea but bringing TDD, better functionalities and a brand-new UX and UI
 
 ## :point_right: **Requirements**
 
 In order to run this project you'll need:
  - [NodeJS](https://nodejs.org/en/) installed
+ - [MongoDB]() installed
+ - Optionally you can use [MongoDB Compass](https://www.mongodb.com/products/compass) for data visualization
  - A [Mapbox](https://www.mapbox.com/) account
+ - [Insomnia](https://insomnia.rest/download), [Postman](https://www.postman.com/) or any other HTTP client of your choice
 
 ## :point_right: **How to use it**
 
