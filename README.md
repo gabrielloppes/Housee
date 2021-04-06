@@ -52,9 +52,4 @@ Via Github CLI:
 
 Made with :heart: by Gabriel Lopes, get in touch!
 
-<a href="linkedin.com/in/gabriellopees">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:gabriellopees@hotmail.com">
-  <img src="https://img.shields.io/badge/-Outlook-informational?style=for-the-badge&logo=microsoft-outlook">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&link=https://linkedin.com/in/gabriellopees)](https://linkedin.com/in/gabriellopees) [![Outlook Badge](https://img.shields.io/badge/-Outlook-informational?style=for-the-badge&logo=microsoft-outlook&link=mailto:gabriellopees@hotmail.com)](mailto:gabriellopees@hotmail.com)
