@@ -18,7 +18,25 @@ This project was inspired in my team's final project for [Le Wagon Coding Bootca
 
 ## **Requirements** :wrench:
 
+In order to run this project you'll need:
+ - [NodeJS](https://nodejs.org/en/) installed
+ - A [Mapbox](https://www.mapbox.com/) account
+
 ## **How to use it** :gear:
+
+You can clone this repo with the following commands
+
+Via HTTPS:
+
+``https://github.com/gabrielloppes/housee_backend.git``
+
+Via SSH:
+
+``git@github.com:gabrielloppes/housee_backend.git``
+
+Via Github CLI:
+
+``gh repo clone gabrielloppes/housee_backend``
 
 ## **How to run the test suite** :test_tube:
 
