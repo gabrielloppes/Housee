@@ -7,40 +7,40 @@
 
 ## **Table of content** :clipboard:
 
-1 - [Project Description](#project-description-writing_hand)<br>
-2 - [Requirements](#requirements-wrench)<br>
-3 - [How to use it](#how-to-use-it-gear)<br>
-4 - [How to run the test suite](#how-to-run-the-test-suite-test_tube)<br>
-5 - [Contributors](#contributors-handshake)
+1 - [Project Description](#point_right-project-description)<br>
+2 - [Requirements](#point_right-requirements)<br>
+3 - [How to use it](#point_right-how-to-use-it)<br>
+4 - [How to run the test suite](#point_right-how-to-run-the-test-suite)<br>
+5 - [Author](#point_right-author)
 
-## **Project Description** :writing_hand:
+## :point_left: **Project Description**
 This project was inspired in my team's final project for [Le Wagon Coding Bootcamp](https://www.lewagon.com) called [Unaconsulta](https://github.com/mamuh/unaconsulta) a service where tenants can leave reviews on properties or rooms they've lived in. The main idea for Housee is to implement the same idea but bringing TDD, better functionalities and a brand-new UX and UI
 
-## **Requirements** :wrench:
+## :point_right: **Requirements**
 
 In order to run this project you'll need:
  - [NodeJS](https://nodejs.org/en/) installed
  - A [Mapbox](https://www.mapbox.com/) account
 
-## **How to use it** :gear:
+## :point_right: **How to use it**
 
 You can clone this repo with the following commands
 
 Via HTTPS:
 
-``https://github.com/gabrielloppes/housee_backend.git``
+``git clone https://github.com/gabrielloppes/housee_backend.git``
 
 Via SSH:
 
-``git@github.com:gabrielloppes/housee_backend.git``
+``git clone git@github.com:gabrielloppes/housee_backend.git``
 
 Via Github CLI:
 
 ``gh repo clone gabrielloppes/housee_backend``
 
-## **How to run the test suite** :test_tube:
+## :point_right: **How to run the test suite**
 
-## **Contributors** :handshake:
+## :point_right: **Author**
 
 <table>
   <tr>
