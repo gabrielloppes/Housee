@@ -46,10 +46,15 @@ Via Github CLI:
 
 ## :point_right: **Author**
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/36803487?v=4" width="100px" alt="Gabriel" /><br/><sub><b>Gabriel Lopes</b></sub>
-    </td>
-  <tr>
-</table>
+---
+
+<img style="border-radius: 50%;" width="100px" alt="Gabriel Avatar" src="https://avatars.githubusercontent.com/u/36803487?v=4" /><br/>
+
+Made with :heart: by Gabriel Lopes, get in touch!
+
+<a href="linkedin.com/in/gabriellopees">
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:gabriellopees@hotmail.com">
+  <img src="https://img.shields.io/badge/-Outlook-informational?style=for-the-badge&logo=microsoft-outlook">
+</a>
