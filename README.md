@@ -20,28 +20,10 @@
 This project was inspired in my team's final project for [Le Wagon Coding Bootcamp](https://www.lewagon.com) called [Unaconsulta](https://github.com/mamuh/unaconsulta) a service where tenants can leave reviews on properties or rooms they've lived in. The main idea for Housee is to implement the same idea but bringing TDD, better functionalities and a brand-new UX and UI
 
 ## **Requirements** :wrench:
-asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasda
-sdasdasdasdasdasdasdasd
-asda
-sdasd
-asdasdasdasdasd
-adsasd
-asdasda
-dsasdasdasdasdasdasdasdasdasdasdasd
-asdasdasdasdadasdasdasdasdasdasdasda
 
 ## **How to use it** :gear:
-asdasdasdasdadasdsdasdfsjdflskjdflksjdlflsjdfsjkfjsçdflsd
-sdkfljsdfsdlkfsjdfjskasdajksdadsldkjfsldjfaslkfjsdf
-dfklsjdfkjsdfjsdkfjslkjÇSDJÇFLJADJFS
-FSLKDFJSLDJFDFJIRJEIJFfdskdjfsdfjskdjfwiefjjd
-sdfjsdfksdjfskldfjlskdfsdfsdfsdfsdfs
 
 ## **How to run the test suite** :test_tube:
-sdfsdfsdflkjsdflksjdflksjdflkjsdfskldfjsldjflskdjfksdfjsdjfsdfjsd
-fsdlfsdjfsdfjsldfjksdjflsjdfsndfsldfsdfsjdflksdfjsldfjsdfsd
-fslkdfsdjfjsdlfjskdnemcsndflsdjfslkdnsdjflsdf
-sldfjsdfjsdkfslkdfjsldkjf
 
 ## **Contributors** :handshake:
 
