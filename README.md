@@ -1,4 +1,4 @@
-# **Housee Backend** :fire:
+# **Housee**
 
 ![GitHub](https://img.shields.io/github/license/gabrielloppes/housee_backend?style=for-the-badge)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/gabrielloppes/housee_backend?style=for-the-badge)
@@ -6,24 +6,25 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabrielloppes/housee_backend?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/gabrielloppes/housee_backend?style=for-the-badge)
 
-## **Topics** :clipboard:
+## **Topics**
 
-1 - [Description](#point_right-description)<br>
-2 - [Technologies used](#point_right-technologies-used)<br>
-3 - [Features](#point_right-features)<br>
-4 - [Requirements](#point_right-requirements)<br>
-5 - [How to use it](#point_right-how-to-use-it)<br>
-6 - [How to run the test suite](#point_right-how-to-run-the-test-suite)<br>
-7 - [Author](#point_right-author)
+1 - [Description](#description)<br>
+2 - [Technologies used](#technologies-used)<br>
+3 - [Features](#features)<br>
+4 - [Requirements](#requirements)<br>
+5 - [How to use it](#how-to-use-it)<br>
+6 - [How to run the test suite](#how-to-run-the-test-suite)<br>
+7 - [Author](#author)
 
-## :point_right: **Description**
+## **Description**
 This project was inspired in my team's final project for [Le Wagon Coding Bootcamp](https://www.lewagon.com) called [Unaconsulta](https://github.com/mamuh/unaconsulta) a service where tenants can leave reviews on properties or rooms they've lived in. The main idea for Housee is to implement the same idea but bringing TDD, better functionalities and a brand-new UX and UI
 
-## :point_right: **Technologies used**
+## **Technologies used**
+ - NodeJS
+ - MongoDB
+## **Features**
 
-## :point_right: **Features**
-
-## :point_right: **Requirements**
+## **Requirements**
 
 In order to run this project you'll need:
  - [NodeJS](https://nodejs.org/en/) installed
@@ -32,7 +33,7 @@ In order to run this project you'll need:
  - A [Mapbox](https://www.mapbox.com/) account
  - [Insomnia](https://insomnia.rest/download), [Postman](https://www.postman.com/) or any other HTTP client of your choice
 
-## :point_right: **How to use it**
+## **How to use it**
 
 You can clone this repo with the following commands
 
@@ -48,11 +49,9 @@ Via Github CLI:
 
 ``gh repo clone gabrielloppes/housee_backend``
 
-## :point_right: **How to run the test suite**
+## **How to run the test suite**
 
-## :point_right: **Author**
-
----
+## **Author**
 
 <img style="border-radius: 50%;" width="100px" alt="Gabriel Avatar" src="https://avatars.githubusercontent.com/u/36803487?v=4" /><br/>
 
