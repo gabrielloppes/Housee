@@ -1,4 +1,4 @@
- <img width="150px" src="https://github.com/gabrielloppes/housee_backend/blob/master/src/.github/logo.png" />
+ <img width="200px" src="https://github.com/gabrielloppes/housee_backend/blob/master/src/.github/logo.png" />
  
  <br>
  
