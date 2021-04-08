@@ -1,8 +1,4 @@
- <img width="200px" src="https://github.com/gabrielloppes/housee_backend/blob/master/src/.github/logo.png" />
- 
- <br>
- 
-![GitHub](https://img.shields.io/github/license/gabrielloppes/housee_backend?style=for-the-badge)
+ ![GitHub](https://img.shields.io/github/license/gabrielloppes/housee_backend?style=for-the-badge)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/gabrielloppes/housee_backend?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielloppes/housee_backend?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabrielloppes/housee_backend?style=for-the-badge)
